@@ -170,7 +170,7 @@ class BogotaViewController: UIViewController, UITableViewDelegate, UITableViewDa
             var descriptionDetail =  "Actividad:\n" + "\nPromoción y Desarrollo de todas las actividades económicas, sociales, educativas y culturales necesarias para difundir y expansión de expresiones artísticas como la danza, el cine, el teatro cultural del café y la fotografía\n" + "\nBeneficio:\n" + "\nDescuento del 20% sobre las tarifas de nuestros cursos de baile.\n" + "\nCondiciones y Restricciones:\n" + "\nPresentar el carnet del Club Recordar y el documento de identificación.\n" + "\nContacto:\n" + "\nwww.sondelahabana.com\n" +
             "Cll 71 No. 11-07 Chapinero / Movil 331 7428 7724 Fijo 755 9272 Persona Contacto Javier Puentes - Director de mercadeo e-mail: sondehabana@gmail.com\n"
             
-            var image = UIImage(named:"sonhabana")!
+            var image = UIImage(named:"habana")!
             var phone = "33174287724"
             var mail = "sondehabana@gmail.com"
             var latitude = "4.656229"
@@ -184,7 +184,7 @@ class BogotaViewController: UIViewController, UITableViewDelegate, UITableViewDa
             var description = "Medicina Interna Neumología."
             var descriptionDetail = "Actividad:\n" + "\nMedicina Interna Neumología.\n" + "\nBeneficio:\n" + "\nConsulta y Control tarifa plena $ 220,000. - Tarifa para clientes Club Recordar $ 100,000.\n" + "\nCondiciones y Restricciones:\n" + "\nPresentar el carnet del Club Recordar y el documento de identificación.La viabilidad del tratamiento esta sujeta a sus condiciones actuales de salud.\n" +
                 "\nContacto:\n" + "\nAv. Cll. 127 No. 20-78 Of. 520 Barrio la Calleja / Movil 312-3559439 Gonzalo Prada - Neumologo\n"
-            var image = UIImage(named:"prada")!
+            var image = UIImage(named:"gonzalo")!
             var phone = "3123559439"
             var mail = "alejandro.clubrecordar@gmail.com"
             var latitude = "4.706725"
@@ -205,7 +205,7 @@ class BogotaViewController: UIViewController, UITableViewDelegate, UITableViewDa
                 "La viabilidad del tratamiento esta sujeta a sus condiciones actuales de salud.\n" + "\nContacto:\n" + "\nwww.sonria.com.co\n" +
                 " Transv. 24 No. 54-08 Galerías\n" +
             "Diana Barón Movil 313 386 1654 / Paula Leyva Movil 311 206 6736 / convenios@sonria.com.co\n"
-            var image = UIImage(named:"sonria-1")!
+            var image = UIImage(named:"sonria")!
             var phone = "3112066736"
             var mail = "convenios@sonria.com.co"
             var latitude = "4.644985"
